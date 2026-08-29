@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Colors -->
+    <color name="pegasus_blue">#1F88D8</color>
+    <color name="pegasus_dark_blue">#1565C0</color>
+    <color name="pegasus_light_blue">#42A5F5</color>
+
+    <!-- Background & Surface -->
+    <color name="surface_dark">#121212</color>
+    <color name="surface_light">#F5F5F5</color>
+    <color name="background">#0A0E27</color>
+
+    <!-- Glass Effect Colors -->
+    <color name="glass_tint">#20FFFFFF</color>
+    <color name="glass_dark_tint">#1A000000</color>
+
+    <!-- Status Colors -->
+    <color name="success_green">#4CAF50</color>
+    <color name="warning_yellow">#FFC107</color>
+    <color name="error_red">#F44336</color>
+    <color name="info_blue">#2196F3</color>
+
+    <!-- Text Colors -->
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#B0BEC5</color>
+    <color name="text_disabled">#78909C</color>
+</resources>
