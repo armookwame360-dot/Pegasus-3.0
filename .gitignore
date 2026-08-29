@@ -1,0 +1,53 @@
+# AOSP Build Output
+out/
+.repo/
+*.apk
+*.img
+
+# Build artifacts
+*.o
+*.so
+*.a
+*.dex
+*.class
+
+# IDE
+.idea/
+.vscode/
+*.iml
+*.swp
+*.swo
+*~
+
+# Build tools
+.gradle/
+build/
+dist/
+
+# OS
+.DS_Store
+Thumbs.db
+*.log
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.Python
+
+# Temp files
+*.tmp
+*.bak
+*.orig
+.temp/
+
+# Device specific
+local.properties
+build.prop
+
+# Misc
+.classpath
+.project
+.settings/
+*.patch~
